@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 16 11:51:40 2022
 
-@author: SerkanSavas
-"""
-
-#Kütüphaneler
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
